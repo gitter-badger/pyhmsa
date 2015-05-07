@@ -1,6 +1,10 @@
 pyHMSA
 ======
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/pyhmsa/pyhmsa
+   :target: https://gitter.im/pyhmsa/pyhmsa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 .. image:: https://pypip.in/version/pyHMSA/badge.svg
    :target: https://pypi.python.org/pypi/pyHMSA/
    :alt: Latest Version
